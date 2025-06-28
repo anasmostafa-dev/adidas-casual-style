@@ -203,19 +203,19 @@ nav ul li a:hover {
 @media (max-width: 950px) {
     .content {
         flex-direction: column;
-        margin-right: 23px;
+        
         margin-top: 20px;
     }
 
     .content .image img {
         width: 250px;
-        margin-left:20px;
         justify-content: center;
     }
 
     .content .image {
         width: 90%;
         margin-bottom: 200px;
+        margin-right: 30px;
     }
 
     .content .text {
