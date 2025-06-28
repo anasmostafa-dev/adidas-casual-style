@@ -1,4 +1,4 @@
-# 👟 Adidas Landing Page
+# 👟 adidas-casual-style
 
 A clean, modern and responsive landing page concept for **Adidas Egypt**, built using only HTML and CSS.  
 This page showcases a casual shoe design with a glassmorphism-inspired layout and smooth hover effects.
